@@ -1,0 +1,140 @@
+    1  cd репозицій
+    2  cd [репозицій]
+    3  cd репозицій
+    4  cd reposition
+    5  dsr
+    6  dir
+    7  git config --global user.name
+    8  git config --global user.email
+    9  git config --global  --list
+   10  dir
+   11  git
+   12  git help
+   13  cd /d
+   14  dirk
+   15  dirc
+   16  dir
+   17  cd reposition
+   18  git config --global user.name
+   19  git config --global user.email
+   20  git config --global --list
+   21* git config --global user.emai
+   22* git config --global user.name "den
+   23  git config --global --list
+   24  git clone --HW_10
+   25  git-clone --HW_10
+   26  git clone 
+   27  git clone [--HW_10]
+   28  git clone [--HW_10]
+   29  git clone /help
+   30  git clone /--HW_10
+   31  
+   32  git clone [--template=<template-directory>]
+   33  	  [-l] [-s] [--no-hardlinks] [-q] [-n] [--bare] [--mirror]
+   34  	  [-o <name>] [-b <name>] [-u <upload-pack>] [--reference <repository>]
+   35  	  [--dissociate] [--separate-git-dir <git-dir>]
+   36  	  [--depth <depth>] [--[no-]single-branch] [--[no-]tags]
+   37  	  [--recurse-submodules[=<pathspec>]] [--[no-]shallow-submodules]
+   38* 	  
+
+   39  	  [--filter=<filter-spec> [--also-filter-submodules]] [--] <repository>
+   40* 
+
+
+   41  git clone [--template=<template-directory>]
+   42  	  [-l] [-s] [--no-hardlinks] [-q] [-n] [--bare] [--mirror]
+   43  	  [-o <--HW_10>] [-b <--HW_10>] [-u <upload-pack>] [--reference <repository>]
+   44  	  [--dissociate] [--separate-git-dir <git-dir>]
+   45  	  [--depth <depth>] [--[no-]single-branch] [--[no-]tags]
+   46  	  [--recurse-submodules[=<pathspec>]] [--[no-]shallow-submodules]
+   47  	  [--[no-]remote-submodules] [--jobs <n>] [--sparse] [--[no-]reject-shallow]
+   48  	  [--filter=<filter-spec> [--also-filter-submodules]] [--] <repository>
+   49  	  [<directory>]
+   50  git clone https://github.com/Den23413/--HW_10
+   51  cd/D/reposition/--HW_10
+   52  cd D/reposition/--HW_10
+   53  cd --HW_10 
+   54  cd [--HW_10]
+   55  cd [--HW_10
+   56  cd "--HW_10
+cd "--HW_10"
+cd "--HW_10
+   57  cd --HW_10
+   58  cd / --HW_10
+   59  cd /--HW_10
+   60  dir
+   61  dir
+   62  cd/--HW_10
+   63  cd HW_10
+   64  cd HW_10
+   65  git config --global text_ignore.txt
+   66  git create text_ignore.txt
+   67  git --help
+   68  git add text_ignore.txt
+   69  touch text_ignore.txt~
+   70  git status text_ignore.txt
+   71  git status 
+   72  touch .gitignore text_ignore.txt~
+   73  git status 
+   74  git add
+   75  git add text_ignore.txt~
+   76  git status 
+   77  git add [200~.gitignore
+   78  git add .gitignore
+   79  git status 
+   80  git stash text_ignore.txt~
+   81  git status 
+   82  git stash 
+   83  git status 
+   84  git commit -m "task 1"
+   85  git commit -m "task 1"
+   86  git status 
+   87  git stash 
+   88  git commit -m "task 1"
+   89  git commit help
+   90  git commit /help
+   91  echo "text_ignore.txt" >> .gitignore
+   92  git stash 
+   93  git status 
+   94  toush text_ignore.txt
+   95  toush text_ignore.txt
+   96*  text_ignore.txt
+   97  git status 
+   98  git add 
+   99  git add text_ignore.txt
+  100  git status 
+  101  git add .gitignore
+  102  git status 
+  103  git commit -m "task 1"
+  104  git status 
+  105  toush main_test.txt
+  106  touhs main_test.txt
+  107  touch main_test.txt
+  108  git status 
+  109  git add main_test.txt
+  110  git status 
+  111  git commit -m "task 2"
+  112  checkout
+  113  checkout  develop
+  114  git checkout -b <develop>
+  115  git checkout -b develop
+  116  git checkout -b develop
+  117  git checkout -b "develop"
+  118  git checkout -b <develop>
+  119  git checkout -b develop
+  120  git branch
+  121  touch develop_test.txt
+  122  git add develop_test.txt
+  123  git status
+  124  git commit -m "task 3.1"
+  125  git status
+  126  git add develop_test.txt
+  127  git status
+  128  git commit -m "task 3.2"
+  129  git checkout main
+  130  git merge main develop 
+  131  git loog
+  132  git log
+  133  Windows history > command_list.csv
+  134  Windows history > command_list.csv
+  135  history > command_list.csv
